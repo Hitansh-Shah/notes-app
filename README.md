@@ -9,3 +9,11 @@ git clone https://github.com/Hitansh-Shah/notes-app.git
 ```bash
 cd notes-app
 ```
+- Install the required packages:
+```bash
+npm install
+```
+- Start using the app by looking into the command help:
+```bash
+node app.js --help
+```
